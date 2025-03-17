@@ -1,4 +1,6 @@
-# phone-store-manager
+# 📱 Phone Store Management
+## Hi there! 👋
+Phone Store Management là một ứng dụng quản lý cửa hàng điện thoại được phát triển bằng C#. Ứng dụng hỗ trợ các chức năng quản lý sản phẩm, khách hàng, nhân viên, hóa đơn, phân ca làm việc, và thống kê tài chính.
 
 Giao diện đăng nhâp:
 ![image](https://github.com/user-attachments/assets/6122f48b-dce5-485a-9fe7-a118eb3ad4ef)
